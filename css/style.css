@@ -10,7 +10,9 @@ a {
     color: lime;
 }
 .mehedi-img {
-   width: 20%;
+   height:30%;
+    width:25%;
+    object-fit: cover;
 }
 .shape {
     display: flex;
@@ -54,8 +56,9 @@ a {
 
 }
 .image {
-    width:20%;
-    border-radius:100px;
+    height:30%;
+    width:40%;
+    object-fit: cover;
 }
 .about-font {
     font-size: 20px;
@@ -82,7 +85,7 @@ a {
    text-align: center;
 }
 .paragraph{
-    padding: 0 5%;
+    padding-bottom: 2%;
 }
 .view-part {
     text-align: center;
@@ -90,8 +93,11 @@ a {
 footer {
    background-color: thistle;
    padding-bottom: 5%;
-   margin: 0 20px;
 }
 .pad {
     padding-left:20%;
+}
+.proj2-img {
+    padding-top: 5%;
+    background-color: black;
 }
